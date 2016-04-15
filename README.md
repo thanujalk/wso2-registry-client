@@ -7,7 +7,7 @@ This sample client provide resource copying capability with WSO2 G-REG 5.1.0.
 * Ignore specific paths while copying a resource tree
 
 ## Run Binary
-* Download this [zip](http://sdsd) file and extract it.
+* Download this [zip](https://github.com/thanujalk/wso2-registry-client/raw/master/wso2-registry-client-binary.zip) file and extract it.
 * Go to wso2-registry-client-binary folder/resources and open client.properties file. Update file with approopriate 
 values. (If you don't have any paths to escape, comment "ESCAPE.PATHS" line)
 ```properties
