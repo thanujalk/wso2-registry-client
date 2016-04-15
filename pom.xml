@@ -8,7 +8,7 @@
     <artifactId>org.wso2.registry.client</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>WSO2 Registry client</name>
+    <name>WSO2 Registry Sample Client</name>
     <url>http://wso2.org</url>
 
     <dependencies>

@@ -74,6 +74,7 @@ public class RegistryClient {
             }
         }
 
+        System.out.println("Success...!!! ");
         System.exit(0);
     }
 
