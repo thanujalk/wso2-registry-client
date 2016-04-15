@@ -1,5 +1,5 @@
-# WSO2 Registry Sample Client
-This sample client provide resource copying capabilty with WSO2 G-REG 5.1.0.
+# WSO2 G-REG Sample Client for Copy Resources
+This sample client provide resource copying capability with WSO2 G-REG 5.1.0.
 
 ## Features:
 * Copy single resource
